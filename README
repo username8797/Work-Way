@@ -1,2 +1,6 @@
 Use this link and press the download button In the top right to get the project: https://drive.google.com/file/d/1r04IDz8Dp4lDlpOiR172xDrrzDJ78js8/view?usp=sharing
-If this doesn't work, you may have to download the pods that we used, and then open the xcworkspace file.
+If this doesn't work, you may have to download the pods that we used, and then open the xcworkspace file. The pods we used are:
+pod 'Firebase/Analytics'
+pod 'Firebase/MLVision'
+pod 'Firebase/MLVisionTextModel'
+pod 'Reductio'
